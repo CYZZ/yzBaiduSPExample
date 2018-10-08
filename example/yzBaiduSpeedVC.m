@@ -7,11 +7,11 @@
 //
 
 #import "yzBaiduSpeedVC.h"
-#import <YFBaiduSpeechSDK/BDSASRDefines.h>
-#import <YFBaiduSpeechSDK/BDSASRParameters.h>
-#import <YFBaiduSpeechSDK/BDSWakeupDefines.h>
-#import <YFBaiduSpeechSDK/BDRecognizerViewController.h>
-#import <YFBaiduSpeechSDK/BDSEventManager.h>
+#import <BDSASRDefines.h>
+#import <BDSASRParameters.h>
+#import <BDSWakeupDefines.h>
+#import <BDRecognizerViewController.h>
+#import <BDSEventManager.h>
 
 	//#error "请在官网新建应用，配置包名，并在此填写应用的 api key, secret key, appid(即appcode)"
 const NSString* API_KEY = @"BPmC7Di55Q0OZIpfiepaSMdD";
